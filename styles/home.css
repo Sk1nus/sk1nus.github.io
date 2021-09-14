@@ -178,7 +178,7 @@ header nav ul li a:hover{
     display: block;
   }
 }
-@media screen and (max-width: 410px){
+@media screen and (max-width: 425px){
   #menu{
     display: block;
   }
